@@ -1,0 +1,2 @@
+--insert into user ( id,name) values ( 1,'Lyndon Tavares');
+--insert into customer (id,name) values (1,'lyndon');
